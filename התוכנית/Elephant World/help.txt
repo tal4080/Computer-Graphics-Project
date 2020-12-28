@@ -1,0 +1,27 @@
+Controls:
+
+	Keyboard:
+
+		'C' ---------------------------- Toggle between cameras  
+		'O' ---------------------------- Toggle between camera modes (orbit\pivot main camera)
+		'B' ---------------------------- Control body
+		'H' ---------------------------- Control head
+		'T' ---------------------------- Control tail
+		'L' ---------------------------- Control light
+		'W' ---------------------------- Move forwards (body\light), rotate up (head\tail)
+		'S' ---------------------------- Move backwards (body\light), rotate down (head\tail)
+		'A' ---------------------------- Rotate left (body\head\tail), move left (light)
+		'D' ---------------------------- Rotate right (body\head\tail), move right (light)
+		'R' ---------------------------- Move up (light)
+		'F' ---------------------------- Move down (light)
+		'U' ---------------------------- Increase light intensity
+		'J' ---------------------------- Decrease light intensity
+
+	Mouse:
+
+		Right click -------------------- Activate menu
+		Left click drag ---------------- Pan camera
+		Middle click drag -------------- Orbit\pivot camera
+		Mouse wheel -------------------- Zoom in\out
+
+
